@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "ae33",
+      "name": "Carlos",
+      "age": 30,
+      "weight": 75,
+      "height": 1.8
+    },
+    {
+      "name": "Lucas",
+      "age": 21,
+      "weight": 80,
+      "height": 1.85,
+      "id": "bbea"
+    }
+  ]
+}
